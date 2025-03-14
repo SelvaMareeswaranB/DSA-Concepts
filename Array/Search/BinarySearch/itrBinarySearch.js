@@ -19,4 +19,4 @@ function BinarySearch(arr,target){
 console.log(BinarySearch([1,2,3,4,5,6,7,8,9,10],10))
 //T.C :O(log n)
 //S.C : O(1)
-//overflow case : mid = low + (high-low)/2
+//overflow case : mid = low + (high-low)/2w
